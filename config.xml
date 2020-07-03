@@ -7,7 +7,7 @@
     <author email="fernsdarren685@gmail.com" href="">
         darren
     </author>
-    <content src="index.html" />
+    <content src="index.html" /> 
     <access origin="*" />
 	<preference name="orientation" value="portrait"/>
 	<icon src="icon.png"/>
